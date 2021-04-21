@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/esperanza-saavedra.github.io/static/css/main.175e222f.chunk.css",
-    "main.js": "/esperanza-saavedra.github.io/static/js/main.6708cf6f.chunk.js",
-    "main.js.map": "/esperanza-saavedra.github.io/static/js/main.6708cf6f.chunk.js.map",
+    "main.js": "/esperanza-saavedra.github.io/static/js/main.fd5c389f.chunk.js",
+    "main.js.map": "/esperanza-saavedra.github.io/static/js/main.fd5c389f.chunk.js.map",
     "runtime-main.js": "/esperanza-saavedra.github.io/static/js/runtime-main.32b08067.js",
     "runtime-main.js.map": "/esperanza-saavedra.github.io/static/js/runtime-main.32b08067.js.map",
-    "static/js/2.1754b612.chunk.js": "/esperanza-saavedra.github.io/static/js/2.1754b612.chunk.js",
-    "static/js/2.1754b612.chunk.js.map": "/esperanza-saavedra.github.io/static/js/2.1754b612.chunk.js.map",
+    "static/js/2.0e0eb381.chunk.js": "/esperanza-saavedra.github.io/static/js/2.0e0eb381.chunk.js",
+    "static/js/2.0e0eb381.chunk.js.map": "/esperanza-saavedra.github.io/static/js/2.0e0eb381.chunk.js.map",
     "static/js/3.4bb8f1a3.chunk.js": "/esperanza-saavedra.github.io/static/js/3.4bb8f1a3.chunk.js",
     "static/js/3.4bb8f1a3.chunk.js.map": "/esperanza-saavedra.github.io/static/js/3.4bb8f1a3.chunk.js.map",
     "index.html": "/esperanza-saavedra.github.io/index.html",
     "static/css/main.175e222f.chunk.css.map": "/esperanza-saavedra.github.io/static/css/main.175e222f.chunk.css.map",
-    "static/js/2.1754b612.chunk.js.LICENSE.txt": "/esperanza-saavedra.github.io/static/js/2.1754b612.chunk.js.LICENSE.txt"
+    "static/js/2.0e0eb381.chunk.js.LICENSE.txt": "/esperanza-saavedra.github.io/static/js/2.0e0eb381.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32b08067.js",
-    "static/js/2.1754b612.chunk.js",
+    "static/js/2.0e0eb381.chunk.js",
     "static/css/main.175e222f.chunk.css",
-    "static/js/main.6708cf6f.chunk.js"
+    "static/js/main.fd5c389f.chunk.js"
   ]
 }
