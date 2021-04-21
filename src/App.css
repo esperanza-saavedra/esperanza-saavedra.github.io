@@ -1,5 +1,22 @@
-.table-mathematics{
-  padding-top: 2%;
-  height: 400;
-  width: '100%';
+
+.fraction {
+  display: inline-block;
+  text-align: center;
+}
+
+.fraction, .top, .bottom {
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.divisor {
+  border-top: 3px solid black;
+  display: block;
+}
+
+.bottom {
+  margin-top: 5px;
+  display: block;
 }
