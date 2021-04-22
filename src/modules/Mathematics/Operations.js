@@ -21,7 +21,7 @@ export default function Operations(props){
             <Grid item>
                 <Box>
                     <div className="fraction">
-                        <input type="text" className="top" value={numerador[id]} onChange={handleNumerador} placeholder="Inserta Numerador"/>
+                        <input type="text" className="top text-number" value={numerador[id]} onChange={handleNumerador} placeholder="Inserta Numerador"/>
                     </div>
                 </Box>
             </Grid>
@@ -29,7 +29,7 @@ export default function Operations(props){
                 <Box>
                     <div className="fraction">
                         <span className="divisor"></span>
-                        <input type="text" className="bottom" value={denominador[id]} onChange={handleDenominador} placeholder="Inserta Denominador"/>
+                        <input type="text" className="bottom text-number" value={denominador[id]} onChange={handleDenominador} placeholder="Inserta Denominador"/>
                     </div>
                 </Box>
             </Grid>
